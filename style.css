@@ -1,0 +1,26 @@
+body{
+    background: antiquewhite;
+    font-family: monospace;
+}
+
+.kor{
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+}
+
+.but{
+    border: 0px;
+    font-family: monospace;
+}
+
+h1, h2{
+    display: flex;
+    justify-content: center;
+}
+
+.but1{
+    background: green;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
