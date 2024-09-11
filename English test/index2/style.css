@@ -1,0 +1,39 @@
+body{
+    background-color: cadetblue;
+    font-family: monospace;
+}
+
+.but{
+    margin: 10px;
+    border: 0px;
+    background-color: red;
+    font-family: monospace;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.kor{
+    display: flex;
+    justify-content: center;
+}
+
+.but2{
+    background-color: green;
+}
+
+.but4{
+    background-color: green;
+}
+
+.but6{
+    background-color: green;
+}
+
+.but7{
+    background-color: brown;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
